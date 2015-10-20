@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Patterns.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="19" Column="31" />
+      <File FileName="Singleton.cs" Line="37" Column="5" />
+      <File FileName="Factory.cs" Line="22" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/admin/Projects/Patterns/Singleton.cs" line="26" column="1" />
+      <Breakpoint file="/Users/admin/Projects/Patterns/Program.cs" line="14" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
